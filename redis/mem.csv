@@ -1,0 +1,11 @@
+database,type,key,size_in_bytes,encoding,num_elements,len_largest_element,expiry
+0,set,flat_truth,68,intset,2,8,
+0,string,young_salad_hash,104,string,32,32,
+6,string,lively_cherry_hash,104,string,32,32,
+6,string,flat_dream_count,64,string,8,8,
+6,string,😗,208,string,128,128,
+8,string,little_cake_hash,104,string,32,32,
+12,string,cold_fog_hash,128,string,32,32,2023-08-29T19:25:44.096000
+12,string,shrill_snow_count,64,string,8,8,
+13,string,frosty_wildflower_count,72,string,8,8,
+13,string,silent_wood_hash,104,string,32,32,
